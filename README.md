@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PyDevBros</h1>
 <h3 align="center">Just a python developer</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django framework**
 
 - 💬 Ask me about **only python**
 
